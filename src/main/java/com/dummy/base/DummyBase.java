@@ -10,7 +10,7 @@ public class DummyBase {
 	public static Properties prop;
 	public void testbase()
 	{
-		
+		//this is test only
 		
 	}
 }
